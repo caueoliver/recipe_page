@@ -11,7 +11,7 @@ export default function Home() {
         Simple Omelette Recipe 
       </h1> 
       <p className="pb-7 text-[15px]">
-        An easy and quick dis. This classic omelette combines beaten eggs cooked 
+        An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked 
         to perfection, optionally filled with your choice of cheese, vegetables, or meats.
       </p>
       
